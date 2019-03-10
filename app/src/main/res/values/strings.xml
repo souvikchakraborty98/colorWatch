@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">colorWatch</string>
+    <string name="text_logo">YO YO BEACHES</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+</resources>
